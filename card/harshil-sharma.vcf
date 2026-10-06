@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Sharma;Harshil;;;
+FN:Harshil Sharma
+TITLE:Data Scientist
+ORG:University of British Columbia - Master of Data Science
+EMAIL;TYPE=INTERNET:harshil2012sharma@gmail.com
+URL:https://harshil2sharma.github.io/portfolio/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/harshil-sharma-002ms2012/
+NOTE:LinkedIn: https://www.linkedin.com/in/harshil-sharma-002ms2012/
+END:VCARD
